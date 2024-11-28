@@ -1,12 +1,8 @@
-Here's a more professional revision that retains subtle references to solidarity and collective strength without overloading the tone:
-
----
-
 # 🌟 **Gaurav Bhattacharjee - Portfolio**  
 
 Welcome to my portfolio repository! Here, you’ll find details about my work as a **Cybersecurity Professional**, **Ethical Hacker**, and **Penetration Tester**.  
 
-![Portfolio Banner](https://via.placeholder.com/900x300?text=Welcome+to+My+Portfolio)  
+![Portfolio Banner][https://avatars.githubusercontent.com/u/144083709?v=4]
 
 ---
 
