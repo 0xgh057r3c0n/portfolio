@@ -45,7 +45,8 @@ I believe in empowering individuals and organizations through secure digital sys
 
 ### 🎓 **Education**  
 
-- **Secondary Education**: Matriculation from N.I.O.S 
+🎓 **Education**
+- **Secondary Education**: Matriculation from **N.I.O.S** ![N.I.O.S Logo][https://logos-world.net/wp-content/uploads/2022/10/NIOS-Symbol.png]
 - **Higher Secondary**: Fine Arts at Bongaigaon College  
 - **Certifications**:  
   - Ethical Hacker Essentials (EC-Council)  
