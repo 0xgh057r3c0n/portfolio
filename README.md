@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! Here, you’ll find details about my work as a **Cybersecurity Professional**, **Ethical Hacker**, and **Penetration Tester**.  
 
-![Banner](https://raw.githubusercontent.com/0xgh057r3c0n/portfolio/White%20Minimalist%20Profile%20LinkedIn%20Banner(1).jpg)
+![Banner](banner.jpg)
 
 
 ---
