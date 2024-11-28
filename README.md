@@ -46,14 +46,14 @@ I believe in empowering individuals and organizations through secure digital sys
 ### 🎓 **Education**  
 
 🎓 **Education**
-- **Secondary Education**: Matriculation from **N.I.O.S** ![N.I.O.S Logo](https://logos-world.net/wp-content/uploads/2022/10/NIOS-Symbol.png)
-- **Higher Secondary**: Fine Arts at Bongaigaon College  
+- **Secondary Education**: Matriculation from **N.I.O.S** ![N.I.O.S Logo](nios.png)
+- **Higher Secondary**: Fine Arts at **Bongaigaon College**  ![logo](bng_clg.png)
 - **Certifications**:  
-  - Ethical Hacker Essentials (EC-Council)  
-  - Network Defense Essentials (EC-Council)  
-  - Digital Forensic Essentials (EC-Council)  
-  - Cybersecurity for Businesses - Fundamental Edition (EC-Council)
-  - Android Bug Bounty hunting: Hunt Like a Rat (EC-Council)
+  - Ethical Hacker Essentials **(EC-Council)**  ![logo](ec.png)
+  - Network Defense Essentials **(EC-Council)**  ![logo](ec.png)
+  - Digital Forensic Essentials **(EC-Council)**  ![logo](ec.png)
+  - Cybersecurity for Businesses - Fundamental Edition **(EC-Council)** ![logo](ec.png)
+  - Android Bug Bounty hunting: Hunt Like a Rat **(EC-Council)** ![logo](ec.png)
 ---
 
 ## 🔥 **Tools & Projects**  
