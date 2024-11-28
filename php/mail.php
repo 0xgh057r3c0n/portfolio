@@ -1,15 +1,9 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Collect form data
-    $name = htmlspecialchars($_POST['name']);
-    $email = htmlspecialchars($_POST['email']);
-    $message = htmlspecialchars($_POST['message']);
-
-    // Validate the input
-    if (empty($name) || empty($email) || empty($message)) {
-        echo "All fields are required!";
-        exit;
-    }
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
 
     // Email details
     $to = 'gauravbhattacharjee54@gmail.com';  // Replace with your email address
